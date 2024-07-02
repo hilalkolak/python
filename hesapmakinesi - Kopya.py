@@ -1,9 +1,0 @@
-A=9
-B=15
-print(A,'+',B,'=',A+B)
-print(A,'-',B,'=',A-B)
-print(A,'*',B,'=',A*B)
-print(A,'/',B,'=',A/B)
-print(A,'//',B,'=',A//B)
-print(A,'mod',B,'=',A%B)
-print(A,'üssü',B,'=',A**B)
